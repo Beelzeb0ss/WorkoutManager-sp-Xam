@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:WorkoutsXAM.ViewModels"
+             mc:Ignorable="d"
+             x:Class="WorkoutsXAM.Views.WorkoutDetailPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancel" Command="{Binding CancelCommand}" />
+        <ToolbarItem Text="Delete" Command="{Binding DeleteWorkoutCommand}" />
+        <ToolbarItem Text="Update" Command="{Binding UpdateWorkoutCommand}" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="15">
+            <Label Text="Name" FontSize="Medium" />
+            <Entry Text="{Binding WorkoutName}" d:Text="Workout Name" FontSize="Small" />
+            <Label Text="Description" FontSize="Medium" />
+            <Editor Text="{Binding Workout.Details}" d:Text="Workout Details" FontSize="Small" Margin="0" />
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Is Current" FontSize="Medium" />
+                <CheckBox IsChecked="{Binding Workout.IsCurrent}" />
+            </StackLayout>
+            <CollectionView MinimumHeightRequest="300" ItemsSource="{Binding Workout.Exercises}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout Orientation="Vertical" Padding="2">
+                                <Label Text="{Binding Name}" 
+                                d:Text="{Binding .}"
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16" />
+                                <Label Text="{Binding Details}" 
+                                d:Text="Item descripton"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                            </StackLayout>
+                            <Button Text="X" CommandParameter="{Binding .}" Command="{Binding RemoveExerciseCommand,  Source={RelativeSource AncestorType={x:Type viewModels:WorkoutDetailViewModel}}}"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Button Text="Add Exercise" Command="{Binding AddExerciseCommand}" HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

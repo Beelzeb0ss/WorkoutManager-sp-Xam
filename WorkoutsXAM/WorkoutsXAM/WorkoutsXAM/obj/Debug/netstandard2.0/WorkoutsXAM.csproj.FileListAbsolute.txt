@@ -1,0 +1,40 @@
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\bin\Debug\netstandard2.0\WorkoutsXAM.deps.json
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\bin\Debug\netstandard2.0\WorkoutsXAM.dll
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.csprojAssemblyReference.cache
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.AssemblyInfoInputs.cache
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.AssemblyInfo.cs
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\AllWorkoutsPage.xaml.g.cs
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\NewWorkoutPage.xaml.g.cs
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\WorkoutDetailPage.xaml.g.cs
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.csproj.CoreCompileInputs.cache
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.dll
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\ref\WorkoutsXAM.dll
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.pdb
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\bin\Debug\netstandard2.0\ref\WorkoutsXAM.dll
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\bin\Debug\netstandard2.0\WorkoutsXAM.pdb
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\CurrentWorkoutsPage.xaml.g.cs
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\AddExercisePage.xaml.g.cs
+C:\Stuff\Android_Neshta3_XAM\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\TodaysWorkoutPage.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\bin\Debug\netstandard2.0\WorkoutsXAM.deps.json
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\bin\Debug\netstandard2.0\WorkoutsXAM.dll
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\bin\Debug\netstandard2.0\ref\WorkoutsXAM.dll
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\bin\Debug\netstandard2.0\WorkoutsXAM.pdb
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.csprojAssemblyReference.cache
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\AddExercisePage.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\AllWorkoutsPage.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\CurrentWorkoutsPage.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\NewWorkoutPage.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\TodaysWorkoutPage.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\Views\WorkoutDetailPage.xaml.g.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.csproj.CoreCompileInputs.cache
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.AssemblyInfoInputs.cache
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.AssemblyInfo.cs
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.dll
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\ref\WorkoutsXAM.dll
+E:\Program neshta\WorkoutsXAM\WorkoutsXAM\WorkoutsXAM\obj\Debug\netstandard2.0\WorkoutsXAM.pdb
